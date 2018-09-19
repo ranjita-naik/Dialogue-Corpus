@@ -1,22 +1,21 @@
-##OpenSubtitles
+## OpenSubtitles
 
 
-###Objective
+### Objective
 Generates dialogue corpus using opensubtitles data.
 
 
 
 
 
-###How to run
+### How to run
 Main.py --rootDir "data directory" --skipLines 
 
 
 
 
 
-
-###Citations
+### Citations
 
 OpenSubtitles: http://www.opensubtitles.org/
 
