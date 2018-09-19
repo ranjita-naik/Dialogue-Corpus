@@ -7,9 +7,14 @@ Generates dialogue corpus using opensubtitles data.
 
 
 
+
+
 How to run
 ----------
 Main.py --rootDir "data directory" --skipLines 
+
+
+
 
 
 
